@@ -1,4 +1,6 @@
 - konten A
+  * belajar React.js
 - konten B
+  * belajar Git
 - konten C
 - konten d (baru)
