@@ -1,5 +1,7 @@
 - konten A
   * belajar React.js
+  * belajar Node Js
+  * belajar MongoDB
 - konten B
   * belajar Git
 - konten C
